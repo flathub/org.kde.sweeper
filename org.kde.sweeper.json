@@ -22,18 +22,14 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.02.2/src/sweeper-24.02.2.tar.xz",
-                    "sha256": "13755882e6c12e8c57655035c7e5f36d052c3c0bfcb40b1c067be3b93f7daddd",
+                    "url": "https://download.kde.org/stable/release-service/24.12.0/src/sweeper-24.12.0.tar.xz",
+                    "sha256": "3254887c57342bdfcbb05d3160f5cae1ccbb91e4a4b56876726b16ce6e2091a2",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1486,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/sweeper-$version.tar.xz"
                     }
-                },
-                {
-                    "type": "patch",
-                    "path": "appstream.patch"
                 }
             ]
         }
