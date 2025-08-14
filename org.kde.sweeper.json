@@ -22,8 +22,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.3/src/sweeper-25.04.3.tar.xz",
-                    "sha256": "ca29d71cba164900c5342833bf2fc774c924390302cc08db914698c070ec07f3",
+                    "url": "https://download.kde.org/stable/release-service/25.08.0/src/sweeper-25.08.0.tar.xz",
+                    "sha256": "62823c38cabd8fbb7c9a4401464edd3c33f8a4f80740334601bf5a484b2d4dcc",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1486,
