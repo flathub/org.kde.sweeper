@@ -12,6 +12,10 @@
         "--socket=wayland",
         "--filesystem=home"
     ],
+     "cleanup": [
+        "/share/doc",
+        "/share/qlogging-categories6"
+    ],
     "modules": [
         {
             "name": "sweeper",
