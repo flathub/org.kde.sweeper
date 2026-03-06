@@ -12,7 +12,7 @@
         "--socket=wayland",
         "--filesystem=home"
     ],
-     "cleanup": [
+    "cleanup": [
         "/share/doc",
         "/share/qlogging-categories6"
     ],
@@ -26,8 +26,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.2/src/sweeper-25.12.2.tar.xz",
-                    "sha256": "e3417cc74ca2e93dce5fbfa78abecafb7c23b52a1e433663bd66b1107bff1f8c",
+                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/sweeper-25.12.3.tar.xz",
+                    "sha256": "18ad9dba43cb524458ad1f38097212fdaf5d01e3d5d71931b341026a48d3dcd0",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 1486,
